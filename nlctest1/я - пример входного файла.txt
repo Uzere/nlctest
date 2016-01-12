@@ -1,0 +1,29 @@
+load 0
+get 0 0 0
+get 32 32 32
+get 33 32 32
+get 34 32 32
+get 35 32 32
+get 36 32 32
+get 37 32 32
+get 38 32 32
+
+set 34 32 32 42
+
+get 32 32 32
+get 33 32 32
+get 34 32 32
+get 35 32 32
+get 36 32 32
+get 37 32 32
+get 38 32 32
+
+load 31
+get 0 0 0
+get 32 32 32
+get 33 32 32
+get 34 32 32
+get 35 32 32
+get 36 32 32
+get 37 32 32
+get 38 32 32
